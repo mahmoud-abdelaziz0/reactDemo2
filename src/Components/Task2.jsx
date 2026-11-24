@@ -12,6 +12,7 @@ class Task2 extends Component {
     return (
       <>
         <h1>data from parent: {this.props.taskName}</h1>
+        <p>extrnal update frommmmmmmmmmmmm mahmoud68itiwork account</p>
       </>
     );
   }
